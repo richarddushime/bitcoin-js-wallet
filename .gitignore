@@ -5,7 +5,7 @@
 # === Rule for dotfiles ===
 # Ignore all dotfiles.
 /node_modules
-wallet.py
+rust-wallet
 .*
 # Exclude specific dotfiles that we want to track.
 !deps/**/.*
